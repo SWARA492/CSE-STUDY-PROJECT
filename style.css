@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: aqua;
+}
+#pic2{
+    width:50px;
+    height:50px;
+    margin-left:20px;}
+b{
+    color: purple;
+}
+ol{
+ width: 20%;
+ border-style: dashed;
+ text-align: center;
+ padding-right: 20px;
+ padding-bottom: 5px;
+}
+.mini_result{
+    border-style:ridge;
+}
